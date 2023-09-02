@@ -8,7 +8,7 @@ I'm Oliver, I am a student studying Computer Science at Appalachain State Univer
 JAVA / PYTHON / R / C++ / SQL / C
 
 - 🔭 I’m currently working on building a website for my portfolio 
-- 🌱 I’m currently learning HTML, CSS, and JS. I am also learning more SQL, C, and the LC3 Assembly Language. 
+- 🌱 I’m currently learning HTML, CSS, JS. Also, more SQL, C, and the LC3 Assembly Language. 
 - 📫 How to reach me: oliver.t.perrin@gmail.com 
 
 
