@@ -1,4 +1,4 @@
-![Programming and IT](https://pbs.twimg.com/profile_banners/1445558177316044805/1693629711/1500x500)
+![Programming and IT]([https://pbs.twimg.com/profile_banners/1445558177316044805/1693629711/1500x500](https://github.com/OliverPerrin/OliverPerrin/blob/main/operrin_banner.png))
 
 # Hi there 👋, I'm Oliver Perrin
 
