@@ -1,10 +1,11 @@
-### Hi there 👋, Oliver Perrin
-#### Programming and IT
 ![Programming and IT](https://pbs.twimg.com/profile_banners/1445558177316044805/1693629711/1500x500)
+
+# Hi there 👋, I'm Oliver Perrin
 
 I'm Oliver, I am a student studying Computer Science at Appalachain State University.
 
-Skills: JAVA / PYTHON / R / C++ / SQL / C
+## Skills
+JAVA / PYTHON / R / C++ / SQL / C
 
 - 🔭 I’m currently working on building a website for my portfolio 
 - 🌱 I’m currently learning HTML, CSS, and JS. I am also learning more SQL, C, and the LC3 Assembly Language. 
