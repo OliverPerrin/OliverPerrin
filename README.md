@@ -5,10 +5,10 @@
 I'm Oliver, I am a student studying Computer Science at Appalachain State University.
 
 ## Skills
-JAVA / PYTHON / R / C++ / SQL / C
+JAVA / PYTHON / R / C++ / SQL / C / Assemmbly Language
 
 - 🔭 I’m currently working on building a website for my portfolio 
-- 🌱 I’m currently learning HTML, CSS, JS. Also, more SQL, C, and the LC3 Assembly Language. 
+- 🌱 I’m currently learning CSS, JS.
 - 📫 How to reach me: oliver.t.perrin@gmail.com 
 
 
