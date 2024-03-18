@@ -5,7 +5,7 @@
 I'm Oliver, I am a student studying Computer Science at Appalachain State University.
 
 ## Skills
-JAVA / PYTHON / R / C++ / SQL / C / Assemmbly Language
+JAVA / PYTHON / R / C++ / SQL / C / Assembly Language
 
 - 🔭 I’m currently working on building a website for my portfolio 
 - 🌱 I’m currently learning CSS, JS.
