@@ -21,17 +21,14 @@ My journey so far:
 
 ## 🛠 Technical Skills  
 
-**Programming Languages**  
-`Python` · `JavaScript` · `Java` · `C/C++` · `SQL` (MySQL, PostgreSQL) · `Haskell` · `HTML/CSS` · `Assembly (x86, Y86, LC-3)` · `R` · `Maple` · `MATLAB` · `LaTeX`
-
-**Frameworks & Libraries**  
-`Scikit-Learn` · `TensorFlow` · `React` · `Node.js` · `Tailwind CSS` · `d3.js` · `Pandas` · `Numpy` · `Matplotlib` · `Plotly` · `Alembic` · `Maven` · `JUnit` · `Swing`
-
-**Data Science & AI**  
-`Machine Learning` · `Data Analysis` · `Data Visualization` · `Statistical Analysis` · `Predictive Modeling` · `NLP` · `Deep Learning`
-
-**Tools & Technologies**  
-`Git/GitHub` · `Netlify` · `Koyeb` · `Raspberry Pi` · `Cloud Storage` · `IoT Systems` · `Database Management` · `API Development` · `Linux/Unix` · `Docker` · `Vim` · `GDB`
+**Languages**  
+Python, C/C++, Java, SQL, JavaScript, Haskell, Assembly, Maple  
+  
+**ML & Data**  
+PyTorch, Transformers, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Plotly  
+  
+**Systems & Web**  
+FastAPI, React.js, PostgreSQL, Node.js, Docker, Git, Linux, REST APIs, CI/CD, TailwindCSS  
 
 ---
 
@@ -54,12 +51,12 @@ My journey so far:
 
 ## 💼 Professional Experience  
 
-**SQL & Python Trainee** – *The Global Career Accelerator* | Remote *(May–Jul 2025)*  
+**Data Science Participant** – *The Global Career Accelerator* | Remote *(May–Jul 2025)*  
 - Specialized in data analysis & visualization using Python and SQL  
 - Produced actionable insights with Plotly dashboards  
 - Collaborated globally with Intel, OpenAI, Lyft, and Spotify  
 
-**IoT Systems Development Intern** – *Triaxis Power Consulting LLC* | Charlotte, NC *(Summer 2023 & 2024)*  
+**Data & Systems Engineering Intern** – *Triaxis Power Consulting LLC* | Charlotte, NC *(Summer 2023 & 2024)*  
 - Built Raspberry Pi–based IoT monitoring systems for power plants  
 - Optimized data uploads & cloud workflows  
 - Implemented a NAS solution, reducing cloud costs  
@@ -73,7 +70,7 @@ My journey so far:
 
 ## 📫 Connect with Me  
 
-🖥️ Website: https://oliverperrin.com  
+🖥️ Website: **https://oliverperrin.com**  
 📧 Email: **oliver.t.perrin@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/oliver-perrin/)  
 💻 [GitHub](https://github.com/OliverPerrin)  
