@@ -34,10 +34,23 @@ FastAPI, React.js, PostgreSQL, Node.js, Docker, Git, Linux, REST APIs, CI/CD, Ta
 
 ## 🌟 Featured Projects  
 
-🔹 [**PlayAxis**](https://playaxis.netlify.app/) – *Multi-Sport & Event Web App*  
-> Engineered a comprehensive multi-sport and event web application using modern web technologies. Integrated APIs for real-time sports data, event tickets, and schedules.  
-**Tech:** Python · JavaScript · React · Node.js · API Integration  
+🔹 [**PlayAxis**](https://playaxis.netlify.app/) | **PlayAxis: Full-Stack Events & Sports Platform** | **React.js, FastAPI, PostgreSQL, Docker Sep 2025**  
+> Built platform aggregating real-time schedules, scores, and data for events and sports by integrating 3+ external  
+APIs with FastAPI backend (Pydantic validation) and PostgreSQL database  
+> Containerized with Docker; automated CI/CD via Netlify (frontend) and Koyeb (backend), reducing deployment  
+time by 60%. Live at: playaxis.netlify.app | github.com/oliverperrin  
+  
+🔹 **Multi-Task Transformer for Document Analysis** | **PyTorch, Transformers, Python** 
+> Building custom Transformer for abstractive summarization, emotion classification, and topic clustering on literary  
+and article datasets (Project Gutenberg, news corpora)  
+> Implementing encoder-decoder architecture with attention mechanisms and multi-label classification for emotion  
+detection with user-defined compression levels  
+> Developing interactive interface with attention weight visualization for model interpretability
 
+🔹 Movie Recommendation System | TensorFlow, Scikit-learn, NumPy, Python Oct 2025
+> Developed content-based filtering engine using TF-IDF vectorization and cosine similarity to generate personalized
+recommendations from 10,000+ movie entries
+  
 🔹 [**Portfolio Website**](https://oliverperrin.netlify.app/) – *Personal Portfolio*  
 > Built my own portfolio with HTML, CSS, JavaScript, and deployed via Netlify. Smooth animations powered by Lenis & GSAP.  
 
