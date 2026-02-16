@@ -1,25 +1,30 @@
 # 👋 Hi, I'm Oliver Perrin
 
-🎓 **Senior Computer Science Student** @ Appalachian State University  
-📊 **Minor in Mathematics** | 📈 **Certificate in Data Science**  
-💡 Crafting intelligent solutions through code, machine learning, and innovative thinking  
+**Senior Computer Science Student** @ Appalachian State University  
+**Minor in Mathematics** | 📈 **Certificate in Data Science**  
+ML Engineering, Mathematics, SWE
 
 ---
 
-## 🚀 About Me  
+## About Me  
+I’m a Computer Science student at Appalachian State University graduating May 2026, focused on machine learning, deep learning, and NLP, with the goal of working in research-driven ML or ML engineering roles.
 
-I’m a passionate and dedicated developer with a strong foundation in **software engineering**, **machine learning**, and **mathematics**. I thrive on creating **elegant and efficient solutions**, constantly expanding my skills and embracing new challenges. I'm currently building Transformers and NLP Systems. My focus is on ML Engineering and Full Stack Development.  
+My work centers on model design, training, and evaluation, particularly transformer-based architectures. I’m currently building LexiMind, a custom multi-task Transformer implemented in PyTorch for abstractive summarization, emotion classification, and topic clustering over books and news articles. I focus heavily on attention mechanisms, representation learning, architectural tradeoffs, and experimental analysis, translating ML theory and research ideas into working models.
 
-My journey so far:  
+I’ve completed advanced ML coursework and the Machine Learning Specialization by Andrew Ng, and I actively study foundational and modern research (including transformer literature) to inform my implementations. I enjoy breaking down complex ideas, testing assumptions, and iterating on models based on empirical results.
+
+I’m seeking ML Engineering or research-oriented SWE roles where I can contribute to model development, experimentation, and applied ML research.
+
+My journey so far at Appalachian State:  
 - Built **mathematical language interpreters** in Haskell  
 - Developed a **Y86 Pipelined Assembly simulator** in C/C++  
 - Worked on **team-based video game development** in Java  
 - Designed **data visualization dashboards** using d3.js and Tableau  
-- Served as **Team Captain** of my university’s ESports club, honing leadership and teamwork  
+- Served as **Team Captain** of my university’s Esports club
 
 ---
 
-## 🛠 Technical Skills  
+## Technical Skills  
 
 **Languages**  
 Python, C/C++, Java, SQL, JavaScript, Haskell, Assembly, Maple  
@@ -32,37 +37,35 @@ FastAPI, React.js, PostgreSQL, Node.js, Docker, Git, Linux, REST APIs, CI/CD, Ta
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
-🔹 [**PlayAxis**](https://playaxis.netlify.app/) | **PlayAxis: Full-Stack Events & Sports Platform** | **React.js, FastAPI, PostgreSQL, Docker**  
+[**PlayAxis**](https://playaxis.netlify.app/) | **PlayAxis: Full-Stack Events & Sports Platform** | **React.js, FastAPI, PostgreSQL, Docker**  
 > Built platform aggregating real-time schedules, scores, and data for events and sports by integrating 3+ external  
 APIs with FastAPI backend (Pydantic validation) and PostgreSQL database  
 > Containerized with Docker; automated CI/CD via Netlify (frontend) and Koyeb (backend), reducing deployment  
 time by 60%. Live at: playaxis.netlify.app | github.com/oliverperrin  
   
-🔹 **LexiMind: Multi-Task Transformer for Document Analysis** | **PyTorch, Transformers, Python** 
-> Building custom Transformer for abstractive summarization, emotion classification, and topic clustering on literary  
-and article datasets (Project Gutenberg, news corpora)  
-> Implementing encoder-decoder architecture with attention mechanisms and multi-label classification for emotion  
-detection with user-defined compression levels  
-> Developing interactive interface with attention weight visualization for model interpretability
+**LexiMind: Multi-Task Transformer for Document Analysis** | **PyTorch, Transformers, Python** 
+> I built LexiMind, a multi-task NLP system based on FLAN-T5 that jointly performs abstractive summarization, topic classification, and emotion detection on literary and academic text. The project focused on understanding when multi-task learning helps versus hurts performance, rather than assuming joint training is always beneficial.  
+> Through systematic ablation studies, I found that shared encoder representations significantly improved low-resource topic classification (+3.2% accuracy), while emotion detection suffered from negative transfer due to domain mismatch between social-media emotion labels and formal text. I also quantified the impact of transfer learning, showing that pretrained initialization accounted for ~85% of final model performance, with fine-tuning providing critical domain adaptation.  
+> The project involved end-to-end dataset curation, GPU training, and evaluation using ROUGE, BERTScore, and multi-label F1. Code, models, and a live demo are publicly available.  
 
-🔹 **Movie Recommendation System** | **TensorFlow, Scikit-learn, NumPy, Python**  
+**Movie Recommendation System** | **TensorFlow, Scikit-learn, NumPy, Python**  
 > Developed content-based filtering engine using TF-IDF vectorization and cosine similarity to generate personalized
 recommendations from 10,000+ movie entries  
   
-🔹 [**Portfolio Website**](https://oliverperrin.netlify.app/) – *Personal Portfolio*  
+[**Portfolio Website**](https://oliverperrin.netlify.app/) – *Personal Portfolio*  
 > Built my own portfolio with HTML, CSS, JavaScript, and deployed via Netlify. Smooth animations powered by Lenis & GSAP.  
 
-🔹 **Grammy.com Analytics Dashboard** – *Data Analysis for The Recording Academy*  
+**Grammy.com Analytics Dashboard** – *Data Analysis for The Recording Academy*  
 > Delivered insights into audience engagement & business metrics using Python, data visualization, and KPI tracking.  
 
-🔹 **IoT Monitoring System** – *Industrial IoT for Power Plants*  
+**IoT Monitoring System** – *Industrial IoT for Power Plants*  
 > Raspberry Pi–based monitoring system measuring temperature & structural variations, with cloud integration and data visualization in Python.  
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 **Data Science Participant** – *The Global Career Accelerator* | Remote *(May–Jul 2025)*  
 - Specialized in data analysis & visualization using Python and SQL  
@@ -81,7 +84,7 @@ recommendations from 10,000+ movie entries
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 🖥️ Website: **https://oliverperrin.com**  
 📧 Email: **oliver.t.perrin@gmail.com**  
@@ -89,5 +92,3 @@ recommendations from 10,000+ movie entries
 💻 [GitHub](https://github.com/OliverPerrin)  
 
 ---
-
-*“Designed and developed with passion.”*  
