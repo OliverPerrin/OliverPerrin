@@ -1,94 +1,43 @@
 # 👋 Hi, I'm Oliver Perrin
 
-**Senior Computer Science Student** @ Appalachian State University  
-**Minor in Mathematics** | 📈 **Certificate in Data Science**  
-ML Engineering, Mathematics, SWE
+**Lead ML Engineer** at a stealth, pre-launch startup. Recent CS graduate from Appalachian State (May 2026), minor in Mathematics, Data Science Certificate. Based in North Carolina.
 
 ---
 
-## About Me  
-I’m a Computer Science student at Appalachian State University graduating May 2026, focused on machine learning, deep learning, and NLP, with the goal of working in research-driven ML or ML engineering roles.
+## Now
 
-My work centers on model design, training, and evaluation, particularly transformer-based architectures. I’m currently building LexiMind, a custom multi-task Transformer implemented in PyTorch for abstractive summarization, emotion classification, and topic clustering over books and news articles. I focus heavily on attention mechanisms, representation learning, architectural tradeoffs, and experimental analysis, translating ML theory and research ideas into working models.
-
-I’ve completed advanced ML coursework and the Machine Learning Specialization by Andrew Ng, and I actively study foundational and modern research (including transformer literature) to inform my implementations. I enjoy breaking down complex ideas, testing assumptions, and iterating on models based on empirical results.
-
-I’m seeking ML Engineering or research-oriented SWE roles where I can contribute to model development, experimentation, and applied ML research.
-
-My journey so far at Appalachian State:  
-- Built **mathematical language interpreters** in Haskell  
-- Developed a **Y86 Pipelined Assembly simulator** in C/C++  
-- Worked on **team-based video game development** in Java  
-- Designed **data visualization dashboards** using d3.js and Tableau  
-- Served as **Team Captain** of my university’s Esports club
+- **Working** — Sole MLE on a 10-person team. SBERT-based attribute/unit harmonization over 125K+ attributes, schema-agnostic ingestion, and a real-time FastAPI + WebSocket ML ops dashboard feeding the database, browser extension, mobile app, and web platform.
+- **Building** — [**LiminalML**](https://liminalml.com) — a structured, non-skippable path through 130+ ML/SWE interview topics, grounded in the candidate's own resume and project work. 6-stage sessions from intuition to implementation. Free tier; Pro $9/mo.
+- **Researching** — **LexiMind** — 272M-param encoder-decoder transformer from scratch, multi-task across summarization, topic classification, and emotion detection. arXiv preprint, EMNLP 2026 target.
+- **Studying** — Stanford CS336 (Language Modeling from Scratch) and CS224R (Deep RL).
 
 ---
 
-## Technical Skills  
+## Selected work
 
-**Languages**  
-Python, C/C++, Java, SQL, JavaScript, Haskell, Assembly, Maple  
-  
-**ML & Data**  
-PyTorch, Transformers, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Plotly  
-  
-**Systems & Web**  
-FastAPI, React.js, PostgreSQL, Node.js, Docker, Git, Linux, REST APIs, CI/CD, TailwindCSS  
+**[LiminalML](https://liminalml.com)** · *AI interview prep for ML and SWE candidates*
+Resume-personalized 6-stage sessions across 130+ topics. Next.js + Supabase + Stripe + Anthropic. Source private.
 
----
+**LexiMind** · *272M-parameter custom transformer*
+PyTorch from scratch. MTL with learned attention pooling and temperature-based task sampling. Emotion F1 0.199 → 0.352 (+77%) via shared-encoder transfer; identified negative-transfer regimes via systematic ablation.
 
-## Featured Projects  
-
-[**PlayAxis**](https://playaxis.netlify.app/) | **PlayAxis: Full-Stack Events & Sports Platform** | **React.js, FastAPI, PostgreSQL, Docker**  
-> Built platform aggregating real-time schedules, scores, and data for events and sports by integrating 3+ external  
-APIs with FastAPI backend (Pydantic validation) and PostgreSQL database  
-> Containerized with Docker; automated CI/CD via Netlify (frontend) and Koyeb (backend), reducing deployment  
-time by 60%. Live at: playaxis.netlify.app | github.com/oliverperrin  
-  
-**LexiMind: Multi-Task Transformer for Document Analysis** | **PyTorch, Transformers, Python** 
-> I built LexiMind, a multi-task NLP system based on FLAN-T5 that jointly performs abstractive summarization, topic classification, and emotion detection on literary and academic text. The project focused on understanding when multi-task learning helps versus hurts performance, rather than assuming joint training is always beneficial.  
-> Through systematic ablation studies, I found that shared encoder representations significantly improved low-resource topic classification (+3.2% accuracy), while emotion detection suffered from negative transfer due to domain mismatch between social-media emotion labels and formal text. I also quantified the impact of transfer learning, showing that pretrained initialization accounted for ~85% of final model performance, with fine-tuning providing critical domain adaptation.  
-> The project involved end-to-end dataset curation, GPU training, and evaluation using ROUGE, BERTScore, and multi-label F1. Code, models, and a live demo are publicly available.  
-
-**Movie Recommendation System** | **TensorFlow, Scikit-learn, NumPy, Python**  
-> Developed content-based filtering engine using TF-IDF vectorization and cosine similarity to generate personalized
-recommendations from 10,000+ movie entries  
-  
-[**Portfolio Website**](https://oliverperrin.netlify.app/) – *Personal Portfolio*  
-> Built my own portfolio with HTML, CSS, JavaScript, and deployed via Netlify. Smooth animations powered by Lenis & GSAP.  
-
-**Grammy.com Analytics Dashboard** – *Data Analysis for The Recording Academy*  
-> Delivered insights into audience engagement & business metrics using Python, data visualization, and KPI tracking.  
-
-**IoT Monitoring System** – *Industrial IoT for Power Plants*  
-> Raspberry Pi–based monitoring system measuring temperature & structural variations, with cloud integration and data visualization in Python.  
+**PlayAxis** · *Full-stack events and sports platform*
+React + FastAPI + PostgreSQL + Docker. Aggregates real-time schedules and scores from 3+ external APIs. Containerized; CI/CD via Netlify and Koyeb.
 
 ---
 
-## Professional Experience  
+## Stack
 
-**Data Science Participant** – *The Global Career Accelerator* | Remote *(May–Jul 2025)*  
-- Specialized in data analysis & visualization using Python and SQL  
-- Produced actionable insights with Plotly dashboards  
-- Collaborated globally with Intel, OpenAI, Lyft, and Spotify  
-
-**Data & Systems Engineering Intern** – *Triaxis Power Consulting LLC* | Charlotte, NC *(Summer 2023 & 2024)*  
-- Built Raspberry Pi–based IoT monitoring systems for power plants  
-- Optimized data uploads & cloud workflows  
-- Implemented a NAS solution, reducing cloud costs  
-- Enhanced Python data visualizations for decision-making  
-
-**ESports Team Captain** – *Appalachian State University* *(2022–Present)*  
-- Led competitive gaming teams, managing strategy & performance  
-- Developed leadership and communication in high-pressure environments  
+**Languages** — Python · TypeScript · C/C++ · Java · SQL · Haskell · JavaScript · Assembly  
+**ML** — PyTorch · Transformers · TensorFlow · scikit-learn · pandas · NumPy · CUDA  
+**Web & systems** — Next.js · React · FastAPI · PostgreSQL · Supabase · Docker · Linux · CI/CD 
 
 ---
 
-## Connect with Me  
+## Connect
 
-🖥️ Website: **https://oliverperrin.com**  
-📧 Email: **oliver.t.perrin@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/oliver-perrin/)  
-💻 [GitHub](https://github.com/OliverPerrin)  
-
----
+- 🌐 **Website** — [oliverperrin.com](https://oliverperrin.com)
+- 📝 **Writing** — [oliverperrin.substack.com](https://oliverperrin.substack.com) (ML/RL research breakdowns)
+- 💼 **LinkedIn** — [in/oliverperrin](https://linkedin.com/in/oliverperrin)
+- 🚀 **LiminalML** — [liminalml.com](https://liminalml.com)
+- 📧 **Email** — oliver.t.perrin@gmail.com
