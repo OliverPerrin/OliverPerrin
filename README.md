@@ -17,7 +17,7 @@
 **[LiminalML](https://liminalml.com)** · *Interview prep for ML and SWE candidates*
 Resume-personalized 6-stage sessions across 157+ topics.
 
-**LexiMind** · *272M-parameter custom transformer*
+**LexiMind** · *My research in MTL and NLP*
 
 ---
 
