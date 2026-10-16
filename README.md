@@ -32,7 +32,7 @@ The repository also contains a [book-discovery app](https://leximind-five.vercel
 | Project | What I built | Links |
 | --- | --- | --- |
 | **Pulse** | A local-first macOS app and menu-bar dashboard for coding-agent usage: subscription allowances, reset times, token history, and estimated API costs. Built with Electron and Node.js. | [Site](https://usagepulse.vercel.app) · [Code](https://github.com/OliverPerrin/pulse) |
-| **SartheAtlas** | A Le Mans car and circuit explorer with interactive engineering studies, exploded views, terrain, and elevation profiles. Built with React, TypeScript, Three.js, and MapLibre; the engineering models are illustrative studies. | [Code](https://github.com/OliverPerrin/SartheAtlas) |
+| **SartheAtlas** | A Le Mans car and circuit explorer with interactive engineering studies, exploded views, terrain, and elevation profiles. Built with React, TypeScript, Three.js, and MapLibre; the engineering models are illustrative studies. | [Site](https://sartheatlas.vercel.app) · [Code](https://github.com/OliverPerrin/SartheAtlas) |
 | **PlayAxis** | Sport and gaming events, team following, a training log, and community features, built with React and FastAPI. | [Site](https://playaxis.netlify.app) · [Code](https://github.com/OliverPerrin/PlayAxis) |
 | **F1 Race Predictor** | Classical machine learning on Formula 1 qualifying data, with a Streamlit dashboard. | [Code](https://github.com/OliverPerrin/F1-Race-Predictor) |
 
